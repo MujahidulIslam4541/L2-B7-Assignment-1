@@ -38,7 +38,6 @@ const toggleReadStatus = (book: Book): Book & { isRead: boolean } => {
 };
 
 
-
 // question 6
 class Person {
   constructor(public name: string, public age: number) {}

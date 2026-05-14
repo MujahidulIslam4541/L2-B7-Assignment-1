@@ -24,7 +24,6 @@ All of these work without TypeScript complaining.
 
 1. No error checking - TypeScript won't warn you about wrong operations
 2. Hidden bugs at runtime - Errors appear when code runs, not during compilation
-3. No autocomplete - IDE can't suggest methods or properties
 4. Breaks refactoring - Renaming properties won't show what breaks
 
 ---
